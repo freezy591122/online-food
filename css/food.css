@@ -313,3 +313,20 @@ ul li a:hover{
     font-weight:600
   }
 }
+
+
+
+
+
+
+
+
+.card{
+  width: 20%;
+  display: auto;
+  box-shadow: 2px 2px 20px black;
+  border-radius: 5px; 
+  margin: 2%;
+ }
+
+
